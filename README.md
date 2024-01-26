@@ -1,26 +1,24 @@
 # TD1
-grangier
+grangier, kerlaouezo, lainé, li
+
 A bove ante, 
 ab asino retro, 
 a stulto 
 undique 
 caveto
 
-kerlaouezo
 Dans ta chevelure où dansait la lumière
 ondule cette étrange nuit
 au mouvement silencieux
 froissement des hautes herbes de l’innocence
 et ce venin qui l’éteint
 
-lainé
 Out of the night
 Black
 I thank
 For my
 unconquerable soul
 
-li
 No man is an island
 Entire of itself
 Every man is a piece of the continent
