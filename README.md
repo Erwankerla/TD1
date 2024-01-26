@@ -8,3 +8,4 @@
 "To modify the last three commits, you can run git rebase -i HEAD~3." 
 "Git Tools - Rewriting History" 
 "To modify a commit that is farther back in your history, you specify the commit¡¯s SHA-1 hash as an argument to the git rebase command." 
+"Assistant" 
